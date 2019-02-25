@@ -1,0 +1,7 @@
+My first file written from Python
+---------------------------------
+Hello, world!
+I have the snake!
+I do not have it!
+Haha, I got the snake as well!
+Go away!!!
