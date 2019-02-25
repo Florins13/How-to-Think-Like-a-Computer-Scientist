@@ -1,5 +1,5 @@
 import turtle           # Tess becomes a traffic light.
-'''EX 1
+#EX 1
 
 import turtle
 
@@ -95,7 +95,7 @@ wn.onkey(h12, "a")
 # handler will be called.
 wn.listen()
 wn.mainloop()
-'''
+
 
 '''EX 2,3,4 and 5'''
 
